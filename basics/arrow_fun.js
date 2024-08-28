@@ -7,6 +7,18 @@
 // const addOne = (num1 ,num2) => num1 + num2  //its called implicit return
 // const addOne = (num1 ,num2) => (num1 + num2)   //we can write like this also
 
-const addOne = (num1 ,num2) => ({username:"sanu"}) //if we wnt to return the obj
-console.log(addOne(8, 2))
+// const addOne = (num1 ,num2) => ({username:"sanu"}) //if we wnt to return the obj
+// console.log(addOne(8, 2))
+
+
+
+// const one=(n1,n2) => {
+//     return n1*n2;
+// }
+// console.log(12,2);
+
+let comp={
+    username:"sanika",
+    age:21,
+}
 
